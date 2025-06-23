@@ -1,0 +1,19 @@
+{
+  "name": "cipher-discord-bot",
+  "version": "1.0.0",
+  "description": "Cipher AI Agent - Chief Brand Implementation Officer for Creativ Ventures",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "axios": "^1.3.4"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "keywords": ["discord", "bot", "ai", "brand", "design", "cipher"],
+  "author": "Creativ Ventures AI Team",
+  "license": "MIT"
+}
